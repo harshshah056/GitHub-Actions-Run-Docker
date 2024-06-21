@@ -1,0 +1,5 @@
+version: '3'
+services:
+  myapp:
+    image: parth5764/github-actions-demo:latest
+    command: python main.py 4 6
